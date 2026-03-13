@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Kloccity_bot",
+    "username": "Aternos",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "DIRT_MC.aternos.me",
     "port": 14213,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
